@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Story",
+            "request": "launch",
+            "mainClass": "Story",
+            "projectName": "FinalProject_856840fe"
+        },
+        {
+            "type": "java",
+            "name": "Spell",
+            "request": "launch",
+            "mainClass": "Spell",
+            "projectName": "FinalProject_856840fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "--module-path lib/ --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
