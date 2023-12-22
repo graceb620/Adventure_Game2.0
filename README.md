@@ -19,6 +19,6 @@ One common issue while trying to run this program is the bin folder clearing the
 ### Fixing the bin issue
 1. First click the link below, or put the link in your search bar. This will download the needed JavaFX files.
    https://download2.gluonhq.com/openjfx/21.0.1/openjfx-21.0.1_windows-x64_bin-sdk.zip
-2. Open the downloaded file and find the bin folder. You will need these later, so I would ctrl+a, ctrl+c 
-3. Delete everything in the original bin folder and replace them with the files in the newly downloaded one. I use ctrl+a then delete then ctrl+p the copied files from the other folder into the now empty folder
+2. Open the downloaded file and open the bin folder. You will need these later, so I would ctrl+a, ctrl+c 
+3. Delete everything in the original bin folder and replace them with the files in the newly downloaded one. I use ctrl+a, delete, then ctrl+p the copied files into the now empty folder
 4. After this is done it should be working properly. 
